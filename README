@@ -1,0 +1,22 @@
+A very simple XMPP bot for todo list.
+
+Original idea belongs to Dendiz, see [1] for his project.
+Since his project requires Java, I created Python version. 
+
+Wokkel idea comes from metajack.[2]
+
+[1] http://dendiz.com/blog/?page_id=188/
+[2] http://metajack.im/2008/09/25/an-xmpp-echo-bot-with-twisted-and-wokkel/
+
+Requirements:
+ * Python
+ * Python-twisted > 8.x
+ * Wokkel
+
+
+
+For Wokkel:
+1. Checkout Wokkel code from here:
+https://svn.ik.nu/wokkel/trunk/
+2. Install:
+python setup.py install

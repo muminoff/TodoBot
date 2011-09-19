@@ -1,0 +1,4 @@
+1. Run install.py
+    python install.py
+2. Run server:
+    twistd -ny echobot.tac
